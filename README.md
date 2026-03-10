@@ -20,4 +20,5 @@ Designing and operating cloud-native platforms that enable engineering teams to 
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/umair-sh/)
+- [Email](mailto:umair.sh@protonmail.com)
 - [Substack](http://substack.com/@umairsh/)
