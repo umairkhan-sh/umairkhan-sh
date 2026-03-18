@@ -19,6 +19,6 @@ Designing and operating cloud-native platforms that enable engineering teams to 
 - [dotfiles](https://github.com/umairkhan-sh/dotfiles) - A collection of configuration files for my Arch Linux setup, managed with GNU Stow.
 
 ## Connect
-- [LinkedIn](https://linkedin.com/in/umair-sh/)
 - [Email](mailto:umair.sh@protonmail.com)
+- [LinkedIn](https://linkedin.com/in/umair-sh/)
 - [Substack](http://substack.com/@umairsh/)
