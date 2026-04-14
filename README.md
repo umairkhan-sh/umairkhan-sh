@@ -1,6 +1,6 @@
 # 👋 I'm Umair
 
-**Cloud Native Platform Engineer • Building Internal Developer Platforms**
+**Platform Engineer**
 
 Designing and operating cloud-native platforms that enable engineering teams to build and ship reliably at scale.
 
@@ -12,6 +12,7 @@ Designing and operating cloud-native platforms that enable engineering teams to 
 - DevOps & CI/CD Automation
 - Hybrid Cloud Architecture
 - Observability & Infrastructure Reliability
+- AI Infrastructure
 
 ## Projects
 
