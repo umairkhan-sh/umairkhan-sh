@@ -1,7 +1,5 @@
 # 👋 I'm Umair
 
-**Platform Engineer**
-
 Designing and operating cloud-native platforms that enable engineering teams to build and ship reliably at scale.
 
 ## Focus Areas
