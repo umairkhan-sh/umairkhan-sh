@@ -16,6 +16,7 @@ Designing and operating cloud-native platforms that enable engineering teams to 
 
 - [dhcp-flow](https://github.com/umairkhan-sh/dhcp-flow) - DHCP Flow is a full-stack application designed to visualize and manage DHCP subnets and Kubernetes resources. It provides a user-friendly dashboard to interact with network configurations and container orchestration components.
 - [dotfiles](https://github.com/umairkhan-sh/dotfiles) - A collection of configuration files for my Arch Linux setup, managed with GNU Stow.
+- [policy-engine](https://github.com/umairkhan-sh/policy-engine) - A lightweight Kubernetes Validating Webhook service written in Go. This project ensures that all Pods deployed to your cluster adhere to specific policies, starting with image registry restrictions.
 
 ## Connect
 - [Email](mailto:umair.sh@protonmail.com)
