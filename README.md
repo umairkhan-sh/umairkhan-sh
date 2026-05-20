@@ -11,6 +11,7 @@ Designing and operating cloud-native platforms that enable engineering teams to 
 - Hybrid Cloud Architecture
 - Observability & Infrastructure Reliability
 - AI Infrastructure
+- MLOps
 
 ## Projects
 
@@ -21,4 +22,4 @@ Designing and operating cloud-native platforms that enable engineering teams to 
 ## Connect
 - [Email](mailto:umair.sh@protonmail.com)
 - [LinkedIn](https://linkedin.com/in/umair-sh/)
-- [Substack](http://substack.com/@umairsh/)
+- [Substack](https://umairsh.substack.com)
