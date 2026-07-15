@@ -1,1 +1,1 @@
-Focus Areas: Platform Engineering | DevSecOps & CI/CD Automation | Kubernetes & Cloud Native Infrastructure | Observability & Infrastructure Reliability | AI Infrastructure | MLOps
+Platform Engineering | DevSecOps | MLOps | Observability & Infrastructure Reliability | Kubernetes & Cloud Native Infrastructure | AI Infrastructure
